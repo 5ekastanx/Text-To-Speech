@@ -13,7 +13,7 @@ This Django project allows converting text to audio files and saving them.
 1. **Clone the repository:** 
 
     ```bash
-    git clone https://github.com/nasirovx/Text-To-Speech.git
+    git clone https://github.com/5ekastanx/Text-To-Speech.git
     cd Text-To-Speech
     ```
 
